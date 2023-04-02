@@ -14,10 +14,6 @@
 </div>
 
 <div>
-
-<small>Support [**Asabeneh**](https://www.patreon.com/asabeneh?fan_landing=true) to create more educational materials</small>  
-[<img src = './images/become_patreon.png' alt='become-asabeneh-patreon' title='click' />](https://www.patreon.com/asabeneh?fan_landing=true) 
- 
 </div>
 
 ![JavaScript Destructuring](./images/javascript_destructuring.png)
@@ -405,6 +401,8 @@ Asabeneh Yetayeh lives in Finland. He is  250 years old. He is an Instructor and
 ```
 
 ## More Materials
+
+For more JavaScript and other programming lessons and tutorials, you may check <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw">Washera</a> YouTube channel. 
 
 If you want to dive deep into JavaScript, you can give it a try to the [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) challenge. This challenge will take quite long time to finish but you can get all you need about JavaScript
 
